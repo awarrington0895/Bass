@@ -1,0 +1,47 @@
+/* line 1, C:/Users/Alex/Documents/Website/sass/test.scss */
+html, body {
+  margin: 0;
+  padding: 0; }
+
+/* line 7, C:/Users/Alex/Documents/Website/sass/test.scss */
+div {
+  display: block; }
+
+/* line 12, C:/Users/Alex/Documents/Website/sass/test.scss */
+.jumbotron {
+  background: url("../res/bg.jpg") no-repeat center center;
+  background-size: cover;
+  background-color: transparent;
+  height: 560px; }
+
+/* line 20, C:/Users/Alex/Documents/Website/sass/test.scss */
+ul {
+  list-style-type: none; }
+
+/* line 30, C:/Users/Alex/Documents/Website/sass/test.scss */
+.header
+a {
+  color: white;
+  padding: 15px;
+  font-weight: bold; }
+
+/* line 37, C:/Users/Alex/Documents/Website/sass/test.scss */
+.header
+.btn-default {
+  border: 0px;
+  border-radius: 0;
+  padding: 8px 30px;
+  background-color: #ff003d; }
+
+/* line 45, C:/Users/Alex/Documents/Website/sass/test.scss */
+.header
+li {
+  display: inline-block;
+  margin-top: 30px;
+  margin-left: 13px; }
+
+/* line 54, C:/Users/Alex/Documents/Website/sass/test.scss */
+.main {
+  color: white; }
+
+/*# sourceMappingURL=test.css.map */
