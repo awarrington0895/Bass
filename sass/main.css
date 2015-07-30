@@ -1,32 +1,38 @@
-/* line 1, C:/Users/Alex/Documents/Website/sass/main.scss */
+/**************************************
+GENERAL
+**************************************/
+/* line 5, C:/Users/Alex/Documents/Website/sass/main.scss */
 html, body {
   margin: 0;
   padding: 0;
   background-color: #161718; }
 
-/* line 8, C:/Users/Alex/Documents/Website/sass/main.scss */
+/* line 12, C:/Users/Alex/Documents/Website/sass/main.scss */
 div {
   display: block; }
 
-/* line 13, C:/Users/Alex/Documents/Website/sass/main.scss */
+/* line 17, C:/Users/Alex/Documents/Website/sass/main.scss */
+ul {
+  list-style-type: none; }
+
+/**************************************
+JUMBOTRON
+**************************************/
+/* line 31, C:/Users/Alex/Documents/Website/sass/main.scss */
 .jumbotron {
   background: url("../res/bg.jpg") no-repeat center center;
   background-size: cover;
   background-color: transparent;
   height: 560px; }
 
-/* line 21, C:/Users/Alex/Documents/Website/sass/main.scss */
-ul {
-  list-style-type: none; }
-
-/* line 31, C:/Users/Alex/Documents/Website/sass/main.scss */
+/* line 45, C:/Users/Alex/Documents/Website/sass/main.scss */
 .header
 a {
   color: white;
   padding: 15px;
   font-weight: bold; }
 
-/* line 38, C:/Users/Alex/Documents/Website/sass/main.scss */
+/* line 52, C:/Users/Alex/Documents/Website/sass/main.scss */
 .header
 .btn-default {
   border: 0px;
@@ -34,38 +40,41 @@ a {
   padding: 8px 30px;
   background-color: #ff003d; }
 
-/* line 46, C:/Users/Alex/Documents/Website/sass/main.scss */
+/* line 60, C:/Users/Alex/Documents/Website/sass/main.scss */
 .header
 li {
   display: inline-block;
   margin-top: 30px;
   margin-left: 13px; }
 
-/* line 55, C:/Users/Alex/Documents/Website/sass/main.scss */
+/* line 69, C:/Users/Alex/Documents/Website/sass/main.scss */
 .main {
   color: white; }
-  /* line 58, C:/Users/Alex/Documents/Website/sass/main.scss */
+  /* line 72, C:/Users/Alex/Documents/Website/sass/main.scss */
   .main
 h1 {
     padding-top: 60px; }
 
-/* line 65, C:/Users/Alex/Documents/Website/sass/main.scss */
+/**************************************
+SUPPORTING MATERIAL
+**************************************/
+/* line 86, C:/Users/Alex/Documents/Website/sass/main.scss */
 .supporting-1 {
   color: white; }
-  /* line 68, C:/Users/Alex/Documents/Website/sass/main.scss */
+  /* line 89, C:/Users/Alex/Documents/Website/sass/main.scss */
   .supporting-1
 .row {
     padding: 80px 0; }
-  /* line 72, C:/Users/Alex/Documents/Website/sass/main.scss */
+  /* line 93, C:/Users/Alex/Documents/Website/sass/main.scss */
   .supporting-1
 .col-md-6 {
     display: inline-block; }
 
-/* line 78, C:/Users/Alex/Documents/Website/sass/main.scss */
+/* line 99, C:/Users/Alex/Documents/Website/sass/main.scss */
 .supporting-2 {
   color: white;
   background-color: black; }
-  /* line 83, C:/Users/Alex/Documents/Website/sass/main.scss */
+  /* line 104, C:/Users/Alex/Documents/Website/sass/main.scss */
   .supporting-2
 .row {
     padding: 80px 10px; }

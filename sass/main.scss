@@ -1,3 +1,7 @@
+/**************************************
+GENERAL
+**************************************/
+
 html, body
 {
     margin: 0;
@@ -10,6 +14,20 @@ div
     display: block;
 }
 
+ul
+{
+    list-style-type: none;
+}
+
+
+
+
+/**************************************
+JUMBOTRON
+**************************************/
+
+
+
 .jumbotron
 {
     background: url("../res/bg.jpg") no-repeat center center;
@@ -18,10 +36,6 @@ div
     height: 560px;
 }
 
-ul
-{
-    list-style-type: none;
-}
 
 
 .header 
@@ -61,6 +75,13 @@ ul
     }
     
 }
+
+
+
+/**************************************
+SUPPORTING MATERIAL
+**************************************/
+
 
 .supporting-1
 {
