@@ -61,4 +61,13 @@ h1 {
 .col-md-6 {
     display: inline-block; }
 
+/* line 78, C:/Users/Alex/Documents/Website/sass/main.scss */
+.supporting-2 {
+  color: white;
+  background-color: black; }
+  /* line 83, C:/Users/Alex/Documents/Website/sass/main.scss */
+  .supporting-2
+.row {
+    padding: 80px 10px; }
+
 /*# sourceMappingURL=main.css.map */
